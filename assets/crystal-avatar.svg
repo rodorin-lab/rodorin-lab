@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100" height="100">
+  <defs>
+    <linearGradient id="crystalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="25%" stop-color="#00ffcc"/>
+      <stop offset="50%" stop-color="#00d4aa"/>
+      <stop offset="75%" stop-color="#007a66"/>
+      <stop offset="100%" stop-color="#00332b"/>
+    </linearGradient>
+    <filter id="crystalGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffcc" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 外側オーラ -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#00ffcc" stroke-width="0.5" opacity="0.3">
+    <animate attributeName="r" values="92;98;92" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ダイヤ型本体 -->
+  <polygon points="100,20 160,70 100,180 40,70" fill="url(#crystalGrad)" stroke="#00ffcc" stroke-width="2" filter="url(#crystalGlow)">
+    <animateTransform attributeName="transform" type="rotate" values="0 100 100;2 100 100;0 100 100;-2 100 100;0 100 100" dur="6s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- 内面の分割線 -->
+  <line x1="100" y1="20" x2="100" y2="120" stroke="#00ffcc" stroke-width="1" opacity="0.5"/>
+  <line x1="40" y1="70" x2="100" y2="120" stroke="#00ffcc" stroke-width="1" opacity="0.5"/>
+  <line x1="160" y1="70" x2="100" y2="120" stroke="#00ffcc" stroke-width="1" opacity="0.5"/>
+  <line x1="40" y1="70" x2="160" y2="70" stroke="#00ffcc" stroke-width="1" opacity="0.3"/>
+
+  <!-- 目（中央） -->
+  <circle cx="100" cy="85" r="8" fill="url(#eyeGlow)">
+    <animate attributeName="r" values="6;10;6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="85" r="3" fill="#ffffff">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- キラキラ -->
+  <circle cx="70" cy="50" r="2" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="130" cy="60" r="1.5" fill="#00ffcc" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="150" r="2" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

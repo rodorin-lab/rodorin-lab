@@ -1,0 +1,33 @@
+name: 💎 Crystal Evolution Engine
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  evolve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get date
+        id: date
+        run: echo "date=$(date -u +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_OUTPUT
+
+      - name: Update timestamp in README
+        run: |
+          sed -i "s/LAST SYNC: .*/LAST SYNC: ${{ steps.date.outputs.date }}/g" README.md
+          
+      - name: Commit & Push
+        run: |
+          git config user.name "Crystal Bot"
+          git config user.email "crystal@axi.dev"
+          git add README.md
+          git diff --cached --quiet || git commit -m "💎 Crystal sync: ${{ steps.date.outputs.date }}"
+          git push

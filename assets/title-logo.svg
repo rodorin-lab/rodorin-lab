@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%">
+  <defs>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffff"/>
+      <stop offset="50%" stop-color="#00ffcc"/>
+      <stop offset="100%" stop-color="#00ffff"/>
+    </linearGradient>
+    <linearGradient id="neonMagenta" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00ff"/>
+      <stop offset="50%" stop-color="#ff00cc"/>
+      <stop offset="100%" stop-color="#ff00ff"/>
+    </linearGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- 外枠 -->
+  <rect x="5" y="5" width="790" height="110" rx="5" fill="none" stroke="url(#neonCyan)" stroke-width="2" filter="url(#neonGlow)">
+    <animate attributeName="stroke" values="#00ffff;#ff00ff;#00ffff" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- メインタイトル -->
+  <text x="400" y="55" font-family="monospace" font-size="42" font-weight="bold" fill="url(#neonCyan)" text-anchor="middle" filter="url(#neonGlow)">
+    AXI STRIKE
+    <animate attributeName="fill" values="url(#neonCyan);url(#neonMagenta);url(#neonCyan)" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- サブタイトル -->
+  <text x="400" y="85" font-family="monospace" font-size="22" fill="#ff00ff" text-anchor="middle" letter-spacing="4" filter="url(#neonGlow)">
+    CRYSTAL COSMOS BATTLE ARENA
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- 下ライン -->
+  <line x1="200" y1="100" x2="600" y2="100" stroke="#00ffcc" stroke-width="1" opacity="0.5">
+    <animate attributeName="stroke-dasharray" values="0,400;400,0" dur="4s" repeatCount="indefinite"/>
+  </line>
+</svg>

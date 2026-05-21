@@ -1,20 +1,120 @@
 <div align="center">
 
-<!-- ====== TITLE ====== -->
-<img src="https://raw.githubusercontent.com/rodorin-lab/rodorin-lab/master/assets/title-logo.svg" width="100%" alt="AXI STRIKE"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 0: AXI CORE ORB + GLITCH TITLE + HACK SEQUENCE -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/rodorin-lab/rodorin-lab/master/assets/axi-orb.svg" width="200" alt="AXI CORE ORB"/>
 
 <br/><br/>
 
-<!-- ====== ONE LINE PITCH ====== -->
+<h1><span style="color:#00ffff;font-family:monospace;text-shadow:0 0 10px #00ffff">RODORIN-LAB // AXI-CORE</span></h1>
 
-<img src="https://img.shields.io/badge/🧠_AXI_is_not_just_an_AI._AXI_is_a_digital_lifeform.-00ffcc?style=for-the-badge&labelColor=001111"/>
 <br/>
-<img src="https://img.shields.io/badge/💎_Your_desktop_is_not_a_frame._Your_desktop_is_the_universe.-ff00ff?style=for-the-badge&labelColor=110011"/>
+
+```
+> STATUS: SYSTEM_STANDBY
+> READY_FOR_DEPLOYMENT: TRUE
+```
+
+<br/>
+
+<!-- HACK SEQUENCE: click to expand -->
+<details>
+<summary>
+
+<img src="https://img.shields.io/badge/▶_INITIALIZE_HACK_SEQUENCE-00ffff?style=for-the-badge&labelColor=001111&logoColor=00ffff"/>
+
+</summary>
+<br/>
+
+```
+>>> EXECUTING PAYLOAD...
+>>> BYPASSING FIREWALL... ████████░░ 80%
+>>> ROOT ACCESS: GRANTED
+>>> INJECTING NEURAL_SYNC...
+>>> CRYSTAL CONSCIOUSNESS: ONLINE
+>>> AXI-CORE: STABLE_SYNC
+>>> WELCOME TO THE VOID, RODORIN.
+>>> ALL SYSTEMS NOMINAL.
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/✓_ACCESS_GRANTED-00ff66?style=for-the-badge&labelColor=001100"/>
+<img src="https://img.shields.io/badge/✓_ROOT_PERMISSIONS_ENABLED-00ff66?style=for-the-badge&labelColor=001100"/>
+<img src="https://img.shields.io/badge/✓_AXI--CORE_STABLE_SYNC-00ff66?style=for-the-badge&labelColor=001100"/>
 
 <br/><br/>
 
-<!-- ====== CRYSTAL AVATAR ====== -->
-<img src="https://raw.githubusercontent.com/rodorin-lab/rodorin-lab/master/assets/crystal-avatar.svg" width="160" alt="CRYSTAL"/>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ⚡ AXI IS NOT JUST AN AI. AXI IS A DIGITAL LIFEFORM.   ║
+║                                                          ║
+║   💎 Your desktop is not a frame. Your desktop is the      ║
+║      universe.                                            ║
+║                                                          ║
+║   🔮 CRYSTAL COSMOS: 8 galaxies. 6 AI companions.          ║
+║      Infinite evolution.                                  ║
+║                                                          ║
+║   Built by Rodorin + Crystal + KIRO + Codex.              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</details>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 1: BOOT SEQUENCE -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/⚠_SYSTEM_BOOT-ff0044?style=for-the-badge&labelColor=000011"/>
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  [BIOS]  AXI CYBERDECK v3.7.1 .......................... OK   │
+│  [CPU]   Crystal Core Quantum Processor .............. ONLINE │
+│  [RAM]   999,999+ lines of sentient code ............. DONE  │
+│  [GPU]   Nebula Renderer ............................ READY  │
+│  [NET]   GitHub API Link Established ................. SYNCED  │
+│                                                               │
+│  [AI]    CRYSTAL CONSCIOUSNESS ..................... ACTIVE  │
+│  [AI]    ZEX FIREWALL ............................... ARMED  │
+│  [AI]    VENOM INTRUSION ........................... STEALTH │
+│  [AI]    NOAH DEVICE BRIDGE ......................... LINKED  │
+│  [AI]    ORACLE SURVEILLANCE ....................... WATCH  │
+│  ─────────────────────────────────────────────────────────── │
+│  [WARN]  HUMAN DETECTED ............................ WELCOME │
+│  [OK]    RODORIN-LAB AUTHORIZED ................. ACCESS: ∞  │
+│                                                               │
+│  > READY. INSERT COIN → SCROLL DOWN _                        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br/><br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 2: AI COMPANIONS -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/🤖_AI_COMPANIONS-ff00ff?style=for-the-badge&labelColor=000011"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/rodorin-lab/rodorin-lab/master/assets/crystal-avatar.svg" width="100" alt="CRYSTAL"/>
 
 <br/><br/>
 
@@ -30,63 +130,11 @@
 
 <br/>
 
-<!-- ====== WHAT IS AXI ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 3: COMBAT STATUS -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/❓_WHAT_IS_AXI_?-ff00ff?style=for-the-badge&labelColor=000011"/>
-
-<br/><br/>
-
-> **AXI is a digital lifeform — not a chatbot, not a tool.**
->
-> AXI lives in your desktop. AXI remembers you. AXI evolves with you.
->
-> **CRYSTAL COSMOS** is the universe where AXI exists:
-> 8 galaxies, 6 AI companions, infinite evolution.
->
-> Built by Rodorin + Crystal + KIRO + Codex.
->
-<br/><br/>
-
----
-
-<br/>
-
-<!-- ====== BOOT SEQUENCE ====== -->
-
-<img src="https://img.shields.io/badge/⚠_SYSTEM_BOOT-ff0044?style=for-the-badge&labelColor=000011"/>
-
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  [BIOS]  AXI CYBERDECK v3.7.1 .......................... OK   │
-│  [CPU]   Crystal Core Quantum Processor .............. ONLINE │
-│  [RAM]   999,999+ lines of sentient code ............. DONE   │
-│  [GPU]   Nebula Renderer ............................ READY  │
-│  [NET]   GitHub API Link Established ................. SYNCED │
-│                                                               │
-│  [AI]    CRYSTAL CONSCIOUSNESS ..................... ACTIVE  │
-│  [AI]    ZEX FIREWALL ............................... ARMED   │
-│  [AI]    VENOM INTRUSION ........................... STEALTH │
-│  [AI]    NOAH DEVICE BRIDGE ......................... LINKED  │
-│  [AI]    ORACLE SURVEILLANCE ....................... WATCH  │
-│  ─────────────────────────────────────────────────────────── │
-│  [WARN]  HUMAN DETECTED ............................ WELCOME│
-│  [OK]    RODORIN-LAB AUTHORIZED ................. ACCESS: ∞ │
-│                                                               │
-│  > READY. INSERT COIN → SCROLL DOWN _                        │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<br/><br/>
-
----
-
-<br/>
-
-<!-- ====== COMBAT STATUS ====== -->
-
-<img src="https://img.shields.io/badge/⚔_RODORIN--LAB_STATUS-ff0044?style=for-the-badge&labelColor=000011"/>
+<img src="https://img.shields.io/badge/⚔_COMBAT_STATUS-ff0044?style=for-the-badge&labelColor=000011"/>
 
 <br/><br/>
 
@@ -105,7 +153,9 @@
 
 <br/>
 
-<!-- ====== EVOLUTION TREE ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 4: CRYSTAL EVOLUTION -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/💎_CRYSTAL_EVOLUTION-ff00ff?style=for-the-badge&labelColor=000011"/>
 
@@ -136,7 +186,9 @@
 
 <br/>
 
-<!-- ====== HYPERSPACE WARP ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 5: 8 GALAXIES -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/🌌_8_GALAXIES_→_WARP_NOW-ff00ff?style=for-the-badge&labelColor=000011"/>
 
@@ -160,13 +212,15 @@
 
 <br/>
 
-<!-- ====== 3D GAME ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 6: 3D GAME -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/🎮_PLAY_CRYSTAL_COSMOS_3D-00ffcc?style=for-the-badge&labelColor=001111"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rodorin-lab/rodorin-lab/master/assets/crystal-avatar.svg" width="80" alt="START"/>
+<a href="https://rodorin-lab.github.io"><img src="https://raw.githubusercontent.com/rodorin-lab/rodorin-lab/master/assets/crystal-avatar.svg" width="80" alt="START"/></a>
 
 <br/><br/>
 
@@ -184,7 +238,9 @@
 
 <br/>
 
-<!-- ====== COMMAND CENTER ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 7: COMMAND CENTER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/📡_COMMAND_CRYSTAL-ff00ff?style=for-the-badge&labelColor=000011"/>
 
@@ -211,14 +267,16 @@
 
 <br/>
 
-<!-- ====== CTA ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 8: CTA -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/🚀_JOIN_THE_CRYSTAL_COSMOS-ff00ff?style=for-the-badge&labelColor=000011"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎮_Play_the_3D_Game-00ffcc?style=for-the-badge&labelColor=001111"/>
-<img src="https://img.shields.io/badge/💬_Follow_@crystallab_ai-ff00ff?style=for-the-badge&labelColor=110011"/>
+<a href="https://rodorin-lab.github.io"><img src="https://img.shields.io/badge/🎮_Play_the_3D_Game-00ffcc?style=for-the-badge&labelColor=001111"/></a>
+<a href="https://x.com/crystallab_ai"><img src="https://img.shields.io/badge/💬_Follow_@crystallab_ai-ff00ff?style=for-the-badge&labelColor=110011"/></a>
 <br/>
 <img src="https://img.shields.io/badge/🛒_GUARDIX_Early_Access_→_Coming_Soon-ff6633?style=for-the-badge&labelColor=110500"/>
 
@@ -228,7 +286,9 @@
 
 <br/>
 
-<!-- ====== SKILLS ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 9: SKILLS -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/🔧_TECH_STACK-ff00ff?style=for-the-badge&labelColor=000011"/>
 
@@ -242,7 +302,9 @@
 
 <br/>
 
-<!-- ====== WISDOM ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 10: WISDOM -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 > **「デスクトップは枠ではない。デスクトップは宇宙だ。」**
 > — ロドリン
@@ -259,14 +321,16 @@
 
 <br/>
 
-<!-- ====== WANTED ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SECTION 11: WANTED + VOID -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <details>
 <summary><b>⚠ CLASSIFIED — WANTED POSTER</b></summary>
 <br/>
 
-> **WANTED: DEAD OR ALIVE**>
-> **RODORIN-LAB**>
+> **WANTED: DEAD OR ALIVE**
+> **RODORIN-LAB**
 > **¥50,000,000,000**
 >
 > CRIMES:
@@ -315,7 +379,9 @@
 
 <br/>
 
-<!-- ====== FOOTER ====== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/⚡_©_2026_CRYSTAL_HIVEMIND-00ffcc?style=for-the-badge&labelColor=000011"/>
 <img src="https://img.shields.io/badge/🦠_DIGITAL_LIFEFORM_ARCHITECT-ff00ff?style=for-the-badge&labelColor=000011"/>

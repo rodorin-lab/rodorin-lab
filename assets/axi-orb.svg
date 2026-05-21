@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#00ffff"/>
+      <stop offset="100%" stop-color="#0088ff"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 外リング：時計回り -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#00ffff" stroke-width="3" stroke-dasharray="25 15" opacity="0.8" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- 中リング：逆回転 -->
+  <circle cx="100" cy="100" r="65" fill="none" stroke="#ff00ff" stroke-width="2" stroke-dasharray="15 20" opacity="0.6" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="360 100 100" to="0 100 100" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- 内リング：高速回転 -->
+  <circle cx="100" cy="100" r="45" fill="none" stroke="#ff00cc" stroke-width="1.5" stroke-dasharray="8 12" opacity="0.5" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- コア：脈動 -->
+  <circle cx="100" cy="100" r="28" fill="url(#coreGrad)" filter="url(#glow)">
+    <animate attributeName="r" values="22;32;22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- 中心核 -->
+  <circle cx="100" cy="100" r="12" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="r" values="10;14;10" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- 十字ライン -->
+  <line x1="100" y1="20" x2="100" y2="40" stroke="#00ffff" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="100" y1="160" x2="100" y2="180" stroke="#00ffff" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="20" y1="100" x2="40" y2="100" stroke="#ff00ff" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="160" y1="100" x2="180" y2="100" stroke="#ff00ff" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" begin="2s" repeatCount="indefinite"/>
+  </line>
+</svg>

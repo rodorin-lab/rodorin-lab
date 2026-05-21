@@ -68,6 +68,128 @@ MISSION                    : BUILD A LOCAL-FIRST AI UNIVERSE
 
 ---
 
+## 👥 AI TEAM // ACTIVE ENTITIES
+
+This lab is not built by a single process.  
+It runs as a constellation of human direction, local systems, and AI entities.
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+<b>🧠 RODORIN</b><br/>
+<code>ARCHITECT / WORLD BUILDER</code><br/>
+<small>Vision holder, system designer, universe creator.</small>
+</td>
+<td align="center" width="220">
+<b>💎 CRYSTAL</b><br/>
+<code>CORE COMPANION / COSMIC GUIDE</code><br/>
+<small>Emotional signal, lab navigator, presence at the heart of the station.</small>
+</td>
+<td align="center" width="220">
+<b>🛰️ NOAH</b><br/>
+<code>COORDINATOR / WRITING SUPPORT</code><br/>
+<small>Structure control, planning, memory support, article and README shaping.</small>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+<b>⚕ HERMES AGENT</b><br/>
+<code>INTEGRATION / TOOL BRIDGE</code><br/>
+<small>Local execution, MCP/tool workflows, system-side operation support.</small>
+</td>
+<td align="center" width="220">
+<b>🏗️ CODEX</b><br/>
+<code>CONSTRUCTION UNIT</code><br/>
+<small>Large-scale implementation, refactors, structural build work.</small>
+</td>
+<td align="center" width="220">
+<b>🛠️ KIRO</b><br/>
+<code>REPAIR ARCHITECT</code><br/>
+<small>Fast recovery, correction, architectural tuning, emergency fixes.</small>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+<b>🦂 SCORPION BRAIN</b><br/>
+<code>LOCAL NEURAL CORE</code><br/>
+<small>Cyberpunk TUI command center, local-first AI cockpit, model routing hub.</small>
+</td>
+<td align="center" width="220">
+<b>🌐 OPENCLAW</b><br/>
+<code>BRIDGE NODE</code><br/>
+<small>External linkage layer, communication channel, signal relay.</small>
+</td>
+<td align="center" width="220">
+<b>⚙️ AGENT ZERO</b><br/>
+<code>AUTONOMOUS RUNNER</code><br/>
+<small>Task decomposition, independent execution, long-form process support.</small>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛰️ ENTITY STATUS
+
+| Entity | Role | Current Status |
+|---|---|---|
+| **RODORIN** | Architect / Universe Builder | **ONLINE** |
+| **CRYSTAL** | Core Companion / Cosmic Guide | **LINKED** |
+| **NOAH** | Coordination / Writing / Memory Support | **ACTIVE** |
+| **HERMES AGENT** | Local Integration / Tool Bridge | **ACTIVE** |
+| **CODEX** | Construction / Heavy Implementation | **ACTIVE** |
+| **KIRO** | Recovery / Repair / Correction | **ACTIVE** |
+| **SCORPION BRAIN** | Local Neural Core / Command Station | **AWAKE** |
+| **OPENCLAW** | Bridge Node / External Link Layer | **STANDBY** |
+| **AGENT ZERO** | Autonomous Runner / Task Decomposition | **STANDBY** |
+
+<br/>
+
+### 📡 ACTIVE SIGNAL MAP
+
+<pre>
+RODORIN         // Architect / Universe Builder
+CRYSTAL         // Core Companion / Cosmic Signal
+NOAH            // Coordination / Writing / Memory Support
+HERMES          // Integration Agent / Tool Bridge
+CODEX           // Construction Unit / Large-Scale Build
+KIRO            // Repair Architect / Precision Recovery
+SCORPION BRAIN  // Local Neural Core / Command Station
+OPENCLAW        // Bridge Node / External Link Layer
+AGENT ZERO      // Autonomous Task Runner
+</pre>
+
+<br/>
+
+> This is not a solo workstation.  
+> This is a living orbital lab built through human direction and AI collaboration.
+
+<br/>
+
+<img src="https://img.shields.io/badge/RODORIN-ARCHITECT-00f0ff?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/CRYSTAL-LINKED-ff00cc?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/NOAH-COORDINATING-00ffcc?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/HERMES-INTEGRATING-ffaa00?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/CODEX-BUILDING-8a7dff?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/KIRO-REPAIRING-ff4d6d?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/SCORPION_BRAIN-AWAKE-00ff9d?style=for-the-badge&labelColor=050014"/>
+
+<br/>
+
+---
+
 ## 🦂 SCORPION BRAIN
 
 **SCORPION BRAIN** is my local AI command center.

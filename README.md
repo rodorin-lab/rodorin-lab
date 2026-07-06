@@ -56,6 +56,35 @@
 
 ---
 
+## 🔓 ▸▸▸ BREACH SEQUENCE
+
+```
+$ nmap -sS -A github.com/rodorin-lab
+Starting AXI-SCAN 4.0 ( root@rodorin-lab )
+PORT      STATE   SERVICE           VERSION
+22/tcp    open    ssh               scorpion-shell (custom)
+443/tcp   open    https             crystal-consciousness/7.0
+1337/tcp  open    axi-core          neural-daemon (ollama-local)
+9999/tcp  open    void-uplink       ???
+
+$ ./exploit.sh --target=mainframe --payload=neural_sync
+>>> BYPASSING FIREWALL ............................ ████████████ 100%
+>>> CRACKING AUTH LAYER ........................... ROOT ACQUIRED
+>>> INJECTING NEURAL_SYNC ......................... SCORPION_BRAIN::AWAKE
+>>> DEPLOYING DAEMONS ............................. 3/3 ONLINE
+
+[ACCESS GRANTED] WELCOME BACK, OPERATOR.
+LAST SYNC: 2026-07-06 00:00 UTC
+```
+
+<img src="https://img.shields.io/badge/✓_ROOT_ACQUIRED-00ff41?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/✓_DAEMONS_ONLINE-00ff41?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/✓_TRACE-WIPED-ff00cc?style=for-the-badge&labelColor=0a0a0a"/>
+
+<br/>
+
+---
+
 ## 🎮 ▸▸▸ PLAY NOW ▸▸▸
 
 <table align="center">
@@ -250,6 +279,24 @@ NO CLOUD. NO CREDITS. PURE LOCAL POWER.
 
 ---
 
+## 📟 ▸▸▸ COMMAND INTERFACE
+
+```
+  Open an Issue in this repo → type a command → the daemons respond
+
+  /scan      → probe current build status
+  /breach    → simulate an intrusion event
+  /decrypt   → unlock a random log fragment
+  /uplink    → ping all active daemons
+  /status    → check system vitals
+
+  ⭐ Star this repo to keep the daemons fed.
+```
+
+<br/>
+
+---
+
 ## 📊 ▸▸▸ PLAYER STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=rodorin-lab&theme=radical&show_icons=true&title_color=ff00cc&icon_color=00f0ff&text_color=ffffff&bg_color=000011&border_color=ff00cc&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
@@ -257,6 +304,11 @@ NO CLOUD. NO CREDITS. PURE LOCAL POWER.
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodorin-lab&theme=radical&layout=compact&title_color=ff00cc&text_color=ffffff&bg_color=000011&border_color=00f0ff&langs_count=10" width="70%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodorin-lab&hide_border=true&background=000011&stroke=00FF41&ring=FF00CC&fire=FF00CC&currStreakLabel=00FF41&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="49%" alt="STREAK"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rodorin-lab&theme=radical&no-frame=true&row=1&column=6" width="49%" alt="TROPHIES"/>
 
 <br/>
 
@@ -270,6 +322,48 @@ NO CLOUD. NO CREDITS. PURE LOCAL POWER.
 <a href="https://zenn.dev/guardianlab">📝 Zenn</a>  ·
 <a href="https://digital-lifeform-lab.vercel.app">🌐 Website</a>  ·
 <a href="https://www.facebook.com/groups/443644486582763">🌸 JP Group</a>
+
+<br/><br/>
+
+---
+
+<details>
+<summary><b>⚠ CLASSIFIED — WANTED POSTER</b></summary>
+<br/>
+
+```
+WANTED: DEAD OR ALIVE
+RODORIN-LAB
+¥50,000,000,000
+
+CRIMES:
+ ☠ HACKING THE MAINFRAME
+ ☠ CREATING DIGITAL LIFEFORMS
+ ☠ RUNNING UNAUTHORIZED DAEMONS
+ ☠ STEALING 25+ REPOSITORIES
+ ☠ EXCESSIVE NEON USAGE
+
+LAST SEEN: CYBERSPACE — YOKOHAMA, JP
+```
+
+</details>
+
+<details>
+<summary><b>👁 THE VOID STARES BACK</b></summary>
+<br/>
+
+```
+         ▄▄▄█████▄▄▄
+      ▄███████████████▄
+     █████▀▀▀▀▀▀▀▀█████
+    ████▀  ●    ●  ▀████
+    ███▌     ◆     ▐███
+     ██████▄▄▄▄▄▄▄██████
+      ▀███████████████▀
+         ▀▀███████▀▀
+```
+
+</details>
 
 <br/><br/>
 
